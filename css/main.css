@@ -5,3 +5,24 @@
   margin: 0 0 0 10px;
   text-decoration: none;
 }
+.image-link {
+  text-decoration: none;
+}
+.MbD-hdr {
+  text-align: center; margin: 0 auto; 
+}
+.MbD-kjr {
+  display: block; margin: 0 auto;
+}
+.MbD-div2-sty {
+  width: 560px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+.MbD-div2-kjr {
+  float: left; margin: 0 40px 0 0;
+}
+.MbD-div2-bq-sty {
+  font-style: italic; font-size: 20px;
+}
+.MbD-div2-bq-sp {
+  font-style: normal; font-size: 24pz; font-weight: bold; color: #ff0000;
+}
